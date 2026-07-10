@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.04,
+  "time": 0.034,
   "errors": [],
   "tasks": [
     {
@@ -52,13 +52,13 @@
         "scheme": "file",
         "title": "Taxa de Condições Adquiridas",
         "stats": {
-          "hash": "4cd721636f237de15d94fb9212be27fb",
-          "bytes": 28103,
+          "hash": "5f75c09893ce4a306370708b15fc4050",
+          "bytes": 28461,
           "fields": 6,
-          "rows": 718
+          "rows": 727
         }
       },
-      "time": 0.031,
+      "time": 0.024,
       "scope": [
         "hash-count-error",
         "byte-count-error",
